@@ -1,6 +1,6 @@
 {
-  "name": "Map PWA",
-  "short_name": "Map PWA",
+  "name": "Budget Tracking App",
+  "short_name": "Budget Tracking App",
   "start_url": ".",
   "background_color": "#cadbda",
   "theme_color": "#cadbda",
