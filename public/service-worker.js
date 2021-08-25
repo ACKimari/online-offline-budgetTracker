@@ -4,11 +4,14 @@ const FILES_TO_CACHE = [
   "/",
   "/index.html",
   "/manifest.webmanifest",
-  "/style.css",
-  "db.js",
-  "index.js",
-  "icons/icon-192x192.png",
-  "icons/icon-512x512.png"
+  "/styles.css",
+  "/db.js",
+  "/index.js",
+  "/icons/icon-192x192.png",
+  "/icons/icon-512x512.png",
+  "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+  "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+  "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
 ];
 
 // install
