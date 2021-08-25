@@ -19,4 +19,4 @@ Step 5: Now open it on your web and to check if it runs both offline and online,
 
 ## Usage
 
-Deployed link to try it out: 
+Deployed link to try it out: https://abudget-tracker-online-offline.herokuapp.com/
